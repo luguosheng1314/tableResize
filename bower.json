@@ -1,0 +1,14 @@
+{
+  "name": "tableResize",
+  "main": "tableResize.js",
+  "homepage": "https://github.com/luguosheng1314/tableResize",
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
